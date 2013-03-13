@@ -5,7 +5,7 @@ Files to test the use of the Google Ajax CDN as a default in the HTML5 Boilerpla
 
 https://github.com/h5bp/html5-boilerplate/pull/1327
 
-Clone the repo, deploy it on your web server and then test with jsperf from any browser/geographical combination you like. 
+Clone the repo, deploy it on your web server and then test with jsperf (10 runs) from any browser/geographical combination you like. 
 
 Results go here:
 
